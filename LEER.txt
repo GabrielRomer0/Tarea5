@@ -1,3 +1,0 @@
-Hola, no sabía si el archivo de "Información_Confidencial" se agregaba igual, lo agregué de todas formas 
-haciendo git add habiendo sacado antes el .gitignore, despúes agregué el .gitignore y los otros archivos
-e hice el Commit, este archivo lo dejaré con un commit distinto.
